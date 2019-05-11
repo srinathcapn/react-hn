@@ -2,3 +2,5 @@
 /node_modules
 /public/sw-toolbox.js
 dist
+abc.txt
+diff.php
